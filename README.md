@@ -12,7 +12,7 @@
 [hyperlink]: https://www.linkedin.com/in/mohamed-ashraf-shebl/
 [image]:
 https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/64px-LinkedIn_logo_initials.png
-(tooltip)
+(Linked in account)
 
 ## Languagues:
 
