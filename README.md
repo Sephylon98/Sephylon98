@@ -13,19 +13,25 @@
 https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/64px-LinkedIn_logo_initials.png
 (tooltip)
 
-## Languagues and tools:
+## Languagues:
 
-[![alt text1][image1]][hyperlink1] [![alt text2][image2]][hyperlink2] 
+[![alt text1][image1]][hyperlink1] [![alt text2][image2]][hyperlink2] [![alt text3][image3]][hyperlink3] 
 
 [hyperlink1]: https://www.geeksforgeeks.org/c-programming-language/
 [image1]: 
 https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/32px-C_Programming_Language.svg.png
-(tooltip)
+(C Programming)
 
 [hyperlink2]: https://www.geeksforgeeks.org/c-plus-plus/
 [image2]: 
 https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/32px-ISO_C%2B%2B_Logo.svg.png
-(tooltip)
+(C++ Programming)
+
+[hyperlink3]: https://www.python.org/
+[image3]: 
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/32px-Python_logo_01.svg.png
+(Python Programming & Scripting)
+
 
 <!---
 Sephylon98/Sephylon98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
