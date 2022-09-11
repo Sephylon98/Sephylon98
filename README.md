@@ -15,11 +15,11 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials
 
 ## Languagues and tools:
 
-[![1][image]][hyperlink]
+[![alt text1][image1]][hyperlink1]
 
-[hyperlink]: https://www.eclipse.org/ide/
-[image]:
-https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png
+[hyperlink1]: https://www.geeksforgeeks.org/c-programming-language/
+[image1]: 
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/32px-C_Programming_Language.svg.png
 (tooltip)
 
 <!---
