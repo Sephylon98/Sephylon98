@@ -1,7 +1,12 @@
-- 👋 Hi, I’m Mohamed
+👋 Hi, I’m Mohamed
+=============
 - 👀 I’m interested in Embedded Systems
 - 🌱 I’m currently learning ARM Architecture
 - 📫 How to reach me -> sephylon1998@gmail.com
+
+## Connect with me:
+
+## Languagues and tools:
 
 <!---
 Sephylon98/Sephylon98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
