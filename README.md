@@ -1,5 +1,6 @@
 👋 Hi, I’m Mohamed
 =============
+- ✨ I'm a Junior Embedded Software Engineer
 - 👀 I’m interested in Embedded Systems
 - 🌱 I’m currently learning ARM Architecture
 - 📫 How to reach me -> sephylon1998@gmail.com
